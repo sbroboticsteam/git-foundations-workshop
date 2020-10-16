@@ -1,5 +1,9 @@
 def testFunction():
     print("Hello world! How are you doing today?")
-    i = 0
+    variable = 0
+
+def printRobotics():
+    print("Robotics is a great club! You should attend the GBMs")
+    return 5
 
 testFunction()
