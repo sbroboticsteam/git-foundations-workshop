@@ -4,4 +4,4 @@ def conflictTestFunction(param):
   param = num
   print("Value: " + str(num))
   print("Java is beasting and feasting!")
-  return param
+  return param + 23
