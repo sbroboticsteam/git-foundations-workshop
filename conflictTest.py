@@ -5,3 +5,6 @@ def conflictTestFunction(param):
   print("Value: " + str(num))
   print("Java is inferior")
   return param
+
+def coolFunction():
+  print("This function is cool!")
