@@ -1,4 +1,4 @@
-Introduction to Inventor
-Introduction to Arduino
-Introduction to Python
-GitHub + Git Foundations Series
+print("Introduction to Inventor")
+print("Introduction to Arduino")
+print("Introduction to Python")
+print("GitHub + Git Foundations Series")
