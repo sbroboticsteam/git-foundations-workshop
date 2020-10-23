@@ -6,3 +6,4 @@ print("GitHub + Git Foundations Series")
 
 print("Workshops in Planning:")
 print("Introduction to Command Line + Linux")
+print("Hello, from part 2")
